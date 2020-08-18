@@ -7,6 +7,7 @@ import ClassCounter from './classCounter';
 import HooksCount from './HooksCount';
 import HooksCounter from './Components/HooksCounter';
 import HooksInput from './Components/HooksInput';
+import HooksArrays from './HooksArrays';
 class App extends Component {
   constructor() {
     super();
