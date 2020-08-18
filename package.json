@@ -1,0 +1,21 @@
+{
+  "name": "react-bootstrap-examples",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "eslint": "^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0",
+    "eslint-plugin-react-hooks": "^4.1.0",
+    "react": "16.8.0",
+    "react-bootstrap": "0.32.1",
+    "react-dom": "16.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
